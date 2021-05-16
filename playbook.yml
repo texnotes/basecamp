@@ -1,0 +1,8 @@
+---
+- hosts: iaac
+  gather_facts: yes
+  become: false
+  roles:
+    - distro
+    - {role: file, become: yes}
+...
