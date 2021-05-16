@@ -6,7 +6,7 @@ It is not clear in the assignment that only two groups entered to the iaac- grou
 
 Then I made a passwordless login for three instances, but for the sudo team, I think it would be more correct to pass the password through the Ansible command or use a vault.
 
-![Screenshot](https://github.com/texnotes/basecamp/blob/main/img/Screenshot%202021-05-16%20232830.png "Screenshot")
+![Screenshot](https://github.com/texnotes/basecamp/blob/main/img/Screenshot%202021-05-16%20231555.png "Screenshot")
 
 
 
