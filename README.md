@@ -8,6 +8,10 @@ Then I made a passwordless login for three instances, but for the sudo team, I t
 
 ![Screenshot](https://github.com/texnotes/basecamp/blob/main/img/Screenshot%202021-05-16%20231555.png "Screenshot")
 
+Useful links:
+1. How to Setup Passwordless SSH Login - [Linuxize](https://linuxize.com/post/how-to-setup-passwordless-ssh-login/)
+2. 
+
 
 
 
