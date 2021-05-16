@@ -4,7 +4,7 @@ It is not clear in the assignment that only two groups entered to the iaac- grou
 
 ![Screenshot](https://github.com/texnotes/basecamp/blob/main/img/Screenshot%202021-05-16%20232830.png "Screenshot")
 
-Then I made a passwordless login for three instances, but for the sudo team, I think it would be more correct to pass the password through the Ansible command or use a vault. (Updated: I was wrong, it turns out that all groups should have one password, or vice versa - many passwords. I made a shudo without entering a password: echo "$USER ALL=(ALL:ALL) NOPASSWD: ALL" | sudo tee /etc/sudoers.d/$USER).
+Then I made a passwordless login for three instances, but for the sudo team, I think it would be more correct to pass the password through the Ansible command or use a vault. (Updated: I was wrong, it turns out that all groups should have one password, or vice versa - many passwords. I made a shudo without entering a password: echo "$USER ALL=(ALL:ALL) NOPASSWD: ALL" | sudo tee /etc/sudoers.d/$USER. But the screenshot did not change anymore).
 
 ![Screenshot](https://github.com/texnotes/basecamp/blob/main/img/Screenshot%202021-05-16%20231555.png "Screenshot")
 
