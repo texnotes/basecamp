@@ -8,7 +8,7 @@ Then I made a passwordless login for three instances, but for the sudo team, I t
 
 ![Screenshot](https://github.com/texnotes/basecamp/blob/main/img/Screenshot%202021-05-16%20231555.png "Screenshot")
 
-###Useful links:
+### Useful links:
 1. How to Setup Passwordless SSH Login - [Linuxize](https://linuxize.com/post/how-to-setup-passwordless-ssh-login/)
 2. Обзор Ansible - [Platon Korzh](https://medium.com/@platon_korzh/%D0%BE%D0%B1%D0%B7%D0%BE%D1%80-ansible-38a794937a3c)
 3. Автоматизируем и ускоряем процесс настройки облачных серверов с Ansible -[Сообщество InfoboxCloud](https://infoboxcloud.ru/community/blog/infoboxcloud/226.html)
