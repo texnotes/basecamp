@@ -1,11 +1,11 @@
 [group1]
-server1 ansible_host=172.16.9.81
+server1 ansible_host=192.168.0.21
 
 [group2]
-server2 ansible_host=172.16.9.82
+server2 ansible_host=192.168.0.22
 
 [group3]
-server3 ansible_host=172.16.9.83
+server3 ansible_host=192.169.0.23
 
 [iaac:children]
 group1 
